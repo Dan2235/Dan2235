@@ -1,2 +1,2 @@
-<h1 align="center>Hello there! I'm Danil</h1>
-<h3>Programmer from Kazakhstan</h3>
+<h1>Hello! I'm Dan2235</h1>
+<h3>My projects are placed here</h3>
